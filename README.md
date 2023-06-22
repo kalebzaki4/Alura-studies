@@ -36,11 +36,6 @@ cd Alura-studies
 
 4. Aproveite o conteúdo e sinta-se à vontade para contribuir, caso deseje!
 
-## Contato
-
-- Email: seu-email@example.com
-- LinkedIn: [seu perfil no LinkedIn](https://www.linkedin.com/in/seu-usuario/)
-
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
