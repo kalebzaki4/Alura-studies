@@ -36,6 +36,20 @@ cd Alura-studies
 
 4. Aproveite o conteúdo e sinta-se à vontade para contribuir, caso deseje!
 
+## Contribuição 🤝
+
+Contribuições são bem-vindas! Caso queira contribuir para o desenvolvimento deste repositório, siga as etapas:
+
+1. Faça um fork deste repositório.
+2. Crie um novo branch para suas alterações: `git checkout -b minha-contribuicao`.
+3. Implemente as alterações desejadas e faça commits: `git commit -m "Minha contribuição"`.
+4. Envie suas alterações para o repositório remoto: `git push origin minha-contribuicao`.
+5. Abra um pull request descrevendo suas alterações.
+
 ## Licença 📜
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
+
+## Criador 👨‍💻
+
+Este projeto foi criado por kalebzaki4.
